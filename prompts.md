@@ -49,26 +49,3 @@ prompts-1.md에 저장해주세요
 
 - 가상환경을 생성하거나 ,  기존 가상환경을 이용해주세요.
 
-```shell
-echo "# Dataprocessing_Example_Deid" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-```
-
-```
-git remote add origin 
-https://github.com/RPythonStudy/Dataprocessing_Example_Deid.git
-```
-
-```
-
-git push -u origin main
-```
-
-```shell
-git remote add origin https://github.com/RPythonStudy/Dataprocessing_Example_Deid.git
-git branch -M main
-git push -u origin main
-```
