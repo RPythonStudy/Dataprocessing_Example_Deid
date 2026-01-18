@@ -1,7 +1,7 @@
 [project]
-name = "rpython-python-lecture"
+name = "dataprocessing-example-deid"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.12.10"
 dependencies = []
