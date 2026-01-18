@@ -1,0 +1,854 @@
+P_COMP:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 10': 1942
+  'Unnamed: 11': 1942
+  'Unnamed: 12': 1942
+  'Unnamed: 13': 1942
+  'Unnamed: 14': 1942
+  'Unnamed: 15': 1942
+  'Unnamed: 16': 1942
+  'Unnamed: 17': 1942
+  'Unnamed: 18': 1942
+  'Unnamed: 19': 1942
+  'Unnamed: 2': 1943
+  'Unnamed: 20': 1942
+  'Unnamed: 21': 1942
+  'Unnamed: 22': 1942
+  'Unnamed: 23': 1942
+  'Unnamed: 24': 1942
+  'Unnamed: 25': 1942
+  'Unnamed: 26': 1942
+  'Unnamed: 27': 1942
+  'Unnamed: 28': 1942
+  'Unnamed: 29': 1942
+  'Unnamed: 3': 1943
+  'Unnamed: 30': 1942
+  'Unnamed: 31': 1942
+  'Unnamed: 32': 1942
+  'Unnamed: 33': 1942
+  'Unnamed: 34': 1942
+  'Unnamed: 35': 1942
+  'Unnamed: 36': 1942
+  'Unnamed: 37': 1942
+  'Unnamed: 38': 1942
+  'Unnamed: 39': 1942
+  'Unnamed: 4': 1943
+  'Unnamed: 40': 1942
+  'Unnamed: 41': 1942
+  'Unnamed: 42': 1942
+  'Unnamed: 43': 1942
+  'Unnamed: 44': 1942
+  'Unnamed: 45': 1942
+  'Unnamed: 46': 1942
+  'Unnamed: 47': 1942
+  'Unnamed: 48': 1942
+  'Unnamed: 49': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 50': 1942
+  'Unnamed: 51': 1942
+  'Unnamed: 52': 1942
+  'Unnamed: 53': 1942
+  'Unnamed: 54': 1942
+  'Unnamed: 55': 1942
+  'Unnamed: 56': 1942
+  'Unnamed: 57': 1942
+  'Unnamed: 58': 1942
+  'Unnamed: 59': 1942
+  'Unnamed: 6': 1942
+  'Unnamed: 60': 1942
+  'Unnamed: 61': 1942
+  'Unnamed: 62': 1942
+  'Unnamed: 63': 1942
+  'Unnamed: 64': 1942
+  'Unnamed: 65': 1942
+  'Unnamed: 66': 1942
+  'Unnamed: 67': 1942
+  'Unnamed: 68': 1942
+  'Unnamed: 69': 1942
+  'Unnamed: 7': 1942
+  'Unnamed: 8': 1942
+  'Unnamed: 9': 1942
+P_COMP;Q_CPA:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 6': 1942
+  'Unnamed: 7': 1942
+P_COMP;Q_CPAC:
+  CDC: 1942
+  POD: 1942
+  Sequence: 1944
+  등재번호: 270
+  발생일: 1942
+  수술 관련 합병증 기타 Comment: 1943
+  입력 식별코드: 4
+P_COMP;Q_CPC:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 6': 1942
+  'Unnamed: 7': 1942
+P_COMP;Q_CPCC:
+  CDC: 1942
+  POD: 1942
+  Sequence: 1944
+  등재번호: 270
+  발생일: 1942
+  심혈관계 기타 Comment: 1943
+  입력 식별코드: 4
+P_COMP;Q_CPD:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+P_COMP;Q_CPDC:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1943
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 6': 1942
+P_COMP;Q_CPG:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 6': 1942
+  'Unnamed: 7': 1942
+P_COMP;Q_CPGC:
+  CDC: 1942
+  POD: 1942
+  Sequence: 1944
+  등재번호: 270
+  발생일: 1942
+  위장관계 기타 Comment: 1943
+  입력 식별코드: 4
+P_COMP;Q_CPI:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 6': 1942
+  'Unnamed: 7': 1942
+P_COMP;Q_CPIC:
+  CDC: 1942
+  POD: 1942
+  Sequence: 1944
+  감염 기타 Comment: 1943
+  등재번호: 270
+  발생일: 1942
+  입력 식별코드: 4
+P_COMP;Q_CPK:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 6': 1942
+  'Unnamed: 7': 1942
+P_COMP;Q_CPKC:
+  CDC: 1942
+  POD: 1942
+  Sequence: 1944
+  등재번호: 270
+  발생일: 1942
+  신장 및 요로계 기타 Comment: 1943
+  입력 식별코드: 4
+P_COMP;Q_CPL:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 6': 1942
+  'Unnamed: 7': 1942
+P_COMP;Q_CPLC:
+  CDC: 1942
+  POD: 1942
+  Sequence: 1944
+  간 기타 Comment: 1943
+  등재번호: 270
+  발생일: 1942
+  입력 식별코드: 4
+P_COMP;Q_CPM:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 6': 1942
+  'Unnamed: 7': 1942
+P_COMP;Q_CPMC:
+  CDC: 1942
+  POD: 1942
+  Sequence: 1944
+  대사 기타 Comment: 1943
+  등재번호: 270
+  발생일: 1942
+  입력 식별코드: 4
+P_COMP;Q_CPN:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 6': 1942
+  'Unnamed: 7': 1942
+P_COMP;Q_CPNC:
+  CDC: 1942
+  POD: 1942
+  Sequence: 1944
+  등재번호: 270
+  발생일: 1942
+  신경계 기타 Comment: 1943
+  입력 식별코드: 4
+P_COMP;Q_CPO:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 6': 1942
+  'Unnamed: 7': 1942
+P_COMP;Q_CPOC:
+  CDC: 1942
+  POD: 1942
+  Sequence: 1944
+  기타 기타 Comment: 1943
+  등재번호: 270
+  발생일: 1942
+  입력 식별코드: 4
+P_COMP;Q_CPP:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 6': 1942
+  'Unnamed: 7': 1942
+P_COMP;Q_CPPC:
+  CDC: 1942
+  POD: 1942
+  Sequence: 1944
+  등재번호: 270
+  발생일: 1942
+  입력 식별코드: 4
+  정신과 기타 Comment: 1943
+P_COMP;Q_CPR:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 6': 1942
+  'Unnamed: 7': 1942
+P_COMP;Q_CPRC:
+  CDC: 1942
+  POD: 1942
+  Sequence: 1944
+  등재번호: 270
+  발생일: 1942
+  입력 식별코드: 4
+  호흡기계 기타 Comment: 1943
+P_FU:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1942
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 6': 1942
+  'Unnamed: 7': 1942
+  'Unnamed: 8': 1942
+P_IC:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 10': 1
+  'Unnamed: 11': 1943
+  'Unnamed: 12': 1942
+  'Unnamed: 2': 1942
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1
+  'Unnamed: 5': 1942
+  'Unnamed: 6': 1942
+  'Unnamed: 7': 1
+  'Unnamed: 8': 1942
+  'Unnamed: 9': 1942
+P_OP:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 10': 1943
+  'Unnamed: 11': 1943
+  'Unnamed: 12': 1944
+  'Unnamed: 13': 1942
+  'Unnamed: 14': 1942
+  'Unnamed: 15': 1942
+  'Unnamed: 16': 1942
+  'Unnamed: 17': 1942
+  'Unnamed: 18': 1942
+  'Unnamed: 19': 1942
+  'Unnamed: 2': 1942
+  'Unnamed: 20': 1942
+  'Unnamed: 21': 1942
+  'Unnamed: 22': 1942
+  'Unnamed: 23': 1942
+  'Unnamed: 24': 1942
+  'Unnamed: 25': 1942
+  'Unnamed: 26': 1943
+  'Unnamed: 27': 1943
+  'Unnamed: 28': 1944
+  'Unnamed: 29': 1943
+  'Unnamed: 3': 1942
+  'Unnamed: 30': 1944
+  'Unnamed: 31': 1943
+  'Unnamed: 32': 1944
+  'Unnamed: 33': 1943
+  'Unnamed: 34': 1943
+  'Unnamed: 35': 1942
+  'Unnamed: 36': 1942
+  'Unnamed: 37': 1942
+  'Unnamed: 38': 1942
+  'Unnamed: 39': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 40': 1943
+  'Unnamed: 41': 1942
+  'Unnamed: 42': 1942
+  'Unnamed: 43': 1943
+  'Unnamed: 44': 1942
+  'Unnamed: 45': 1942
+  'Unnamed: 46': 1942
+  'Unnamed: 47': 1942
+  'Unnamed: 48': 1942
+  'Unnamed: 49': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 50': 1942
+  'Unnamed: 51': 1942
+  'Unnamed: 52': 1942
+  'Unnamed: 53': 1942
+  'Unnamed: 54': 1943
+  'Unnamed: 55': 1943
+  'Unnamed: 56': 1942
+  'Unnamed: 57': 1942
+  'Unnamed: 58': 1942
+  'Unnamed: 59': 1942
+  'Unnamed: 6': 1942
+  'Unnamed: 60': 1942
+  'Unnamed: 61': 1942
+  'Unnamed: 62': 1942
+  'Unnamed: 63': 1943
+  'Unnamed: 64': 1943
+  'Unnamed: 65': 1942
+  'Unnamed: 66': 1942
+  'Unnamed: 67': 1942
+  'Unnamed: 68': 1943
+  'Unnamed: 69': 1943
+  'Unnamed: 7': 1942
+  'Unnamed: 70': 1942
+  'Unnamed: 71': 1942
+  'Unnamed: 72': 1942
+  'Unnamed: 73': 1942
+  'Unnamed: 74': 1942
+  'Unnamed: 75': 1942
+  'Unnamed: 76': 1942
+  'Unnamed: 77': 1942
+  'Unnamed: 78': 1942
+  'Unnamed: 79': 1942
+  'Unnamed: 8': 1942
+  'Unnamed: 80': 1942
+  'Unnamed: 81': 1942
+  'Unnamed: 82': 1942
+  'Unnamed: 83': 1942
+  'Unnamed: 84': 1942
+  'Unnamed: 85': 1942
+  'Unnamed: 86': 1942
+  'Unnamed: 9': 1942
+P_OP;Q_DXOPCATCO:
+  Sequence: 1944
+  등재번호: 270
+  수술명 기타 Comment: 1943
+  입력 식별코드: 4
+P_OP;Q_FDANCAT3:
+  Sequence: 1944
+  등재번호: 270
+  문합부 3 이상 방법: 1942
+  문합부 3 이상 상세: 1942
+  문합부 3 이상 위치: 1942
+  입력 식별코드: 4
+P_OP;Q_FDCOPCATCO:
+  Sequence: 1944
+  근치를 위한 동반 절제의 경우 절제기관 기타 Comment: 1943
+  등재번호: 270
+  입력 식별코드: 4
+P_OP;Q_TRTOCATCO:
+  Sequence: 1944
+  경구항생제 성분 기타 Comment: 1943
+  등재번호: 270
+  입력 식별코드: 4
+P_POST_AN:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 10': 1942
+  'Unnamed: 11': 1942
+  'Unnamed: 12': 1942
+  'Unnamed: 13': 1942
+  'Unnamed: 14': 1942
+  'Unnamed: 15': 1942
+  'Unnamed: 16': 1942
+  'Unnamed: 17': 1942
+  'Unnamed: 18': 1942
+  'Unnamed: 19': 1942
+  'Unnamed: 2': 1942
+  'Unnamed: 20': 1943
+  'Unnamed: 21': 1942
+  'Unnamed: 22': 1942
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1943
+  'Unnamed: 6': 1942
+  'Unnamed: 7': 1942
+  'Unnamed: 8': 1942
+  'Unnamed: 9': 1942
+P_POST_AN;Q_PANIMMCATCO:
+  Sequence: 1944
+  등재번호: 270
+  면역항암제 기타 Comment: 1943
+  입력 식별코드: 4
+P_POST_AN;Q_PANTRGCATCO:
+  Sequence: 1944
+  등재번호: 270
+  입력 식별코드: 4
+  표적치료제 기타 Comment: 1943
+P_POST_CARE:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 10': 1942
+  'Unnamed: 11': 1942
+  'Unnamed: 12': 1942
+  'Unnamed: 13': 1942
+  'Unnamed: 14': 1942
+  'Unnamed: 15': 1942
+  'Unnamed: 16': 1942
+  'Unnamed: 17': 1942
+  'Unnamed: 18': 1942
+  'Unnamed: 19': 1942
+  'Unnamed: 2': 1942
+  'Unnamed: 20': 1942
+  'Unnamed: 21': 1942
+  'Unnamed: 22': 1942
+  'Unnamed: 23': 1943
+  'Unnamed: 24': 1942
+  'Unnamed: 25': 1942
+  'Unnamed: 26': 1942
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 6': 1942
+  'Unnamed: 7': 1942
+  'Unnamed: 8': 1942
+  'Unnamed: 9': 1942
+P_POST_CARE;Q_ERCATCO:
+  Sequence: 1944
+  등재번호: 270
+  입력 식별코드: 4
+  통증 조절 기타 Comment: 1943
+P_POST_CARE;Q_ERNPCATCO:
+  Sequence: 1944
+  등재번호: 270
+  오심 및 구토 예방 방법 기타 Comment: 1943
+  입력 식별코드: 4
+P_POST_OP:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 10': 1942
+  'Unnamed: 11': 1942
+  'Unnamed: 12': 1942
+  'Unnamed: 13': 1942
+  'Unnamed: 14': 1942
+  'Unnamed: 15': 1942
+  'Unnamed: 16': 1942
+  'Unnamed: 17': 1942
+  'Unnamed: 18': 1942
+  'Unnamed: 19': 1942
+  'Unnamed: 2': 1942
+  'Unnamed: 20': 1942
+  'Unnamed: 21': 1942
+  'Unnamed: 22': 1942
+  'Unnamed: 23': 1943
+  'Unnamed: 24': 1942
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+  'Unnamed: 6': 1943
+  'Unnamed: 7': 1942
+  'Unnamed: 8': 1942
+  'Unnamed: 9': 1942
+P_POST_OP;Q_PFUCP:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1943
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+P_POST_OP;Q_PFUEMGYN:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1942
+P_POST_OP;Q_PFUHO:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+P_POST_OP;Q_PFURE:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+P_POST_PATH:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 10': 1943
+  'Unnamed: 11': 1942
+  'Unnamed: 12': 1942
+  'Unnamed: 13': 1942
+  'Unnamed: 14': 1942
+  'Unnamed: 15': 1942
+  'Unnamed: 16': 1942
+  'Unnamed: 17': 1942
+  'Unnamed: 18': 1942
+  'Unnamed: 19': 1942
+  'Unnamed: 2': 1942
+  'Unnamed: 20': 1942
+  'Unnamed: 21': 1942
+  'Unnamed: 22': 1942
+  'Unnamed: 23': 1942
+  'Unnamed: 24': 1942
+  'Unnamed: 25': 1942
+  'Unnamed: 26': 1942
+  'Unnamed: 27': 1942
+  'Unnamed: 28': 1943
+  'Unnamed: 29': 1942
+  'Unnamed: 3': 1943
+  'Unnamed: 30': 1942
+  'Unnamed: 31': 1942
+  'Unnamed: 32': 1942
+  'Unnamed: 33': 1942
+  'Unnamed: 34': 1942
+  'Unnamed: 35': 1942
+  'Unnamed: 36': 1942
+  'Unnamed: 37': 1942
+  'Unnamed: 38': 1943
+  'Unnamed: 39': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 40': 1942
+  'Unnamed: 41': 1942
+  'Unnamed: 42': 1942
+  'Unnamed: 43': 1942
+  'Unnamed: 44': 1942
+  'Unnamed: 45': 1942
+  'Unnamed: 46': 1942
+  'Unnamed: 47': 1943
+  'Unnamed: 48': 1942
+  'Unnamed: 49': 1943
+  'Unnamed: 5': 1942
+  'Unnamed: 50': 1942
+  'Unnamed: 51': 1943
+  'Unnamed: 52': 1942
+  'Unnamed: 53': 1943
+  'Unnamed: 54': 1942
+  'Unnamed: 55': 1943
+  'Unnamed: 56': 1942
+  'Unnamed: 57': 1942
+  'Unnamed: 58': 1942
+  'Unnamed: 59': 1943
+  'Unnamed: 6': 1942
+  'Unnamed: 60': 1942
+  'Unnamed: 61': 1943
+  'Unnamed: 62': 1942
+  'Unnamed: 63': 1942
+  'Unnamed: 7': 1942
+  'Unnamed: 8': 1943
+  'Unnamed: 9': 1942
+P_POST_PATH;Q_PATNM:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 2': 1944
+  'Unnamed: 3': 1942
+  'Unnamed: 4': 1942
+  'Unnamed: 5': 1942
+P_POST_TEST;Q_LBA1:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 5855
+  'Unnamed: 2': 3
+  'Unnamed: 3': 1
+  'Unnamed: 4': 1
+  'Unnamed: 5': 1
+  'Unnamed: 6': 10893
+  'Unnamed: 7': 10893
+  'Unnamed: 8': 10893
+  'Unnamed: 9': 1
+P_POST_TEST;Q_LBA2:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 5855
+  'Unnamed: 2': 3
+  'Unnamed: 3': 1
+  'Unnamed: 4': 1
+  'Unnamed: 5': 1
+  'Unnamed: 6': 13438
+  'Unnamed: 7': 13438
+  'Unnamed: 8': 13438
+  'Unnamed: 9': 1
+P_POST_TEST;Q_LBA3:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 5855
+  'Unnamed: 2': 3
+  'Unnamed: 3': 1
+  'Unnamed: 4': 1
+  'Unnamed: 5': 1
+  'Unnamed: 6': 16768
+  'Unnamed: 7': 16768
+  'Unnamed: 8': 16768
+  'Unnamed: 9': 1
+P_PRE_OP:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 10': 1943
+  'Unnamed: 11': 1942
+  'Unnamed: 12': 1943
+  'Unnamed: 13': 1942
+  'Unnamed: 14': 1942
+  'Unnamed: 15': 1942
+  'Unnamed: 16': 1942
+  'Unnamed: 17': 1942
+  'Unnamed: 18': 1942
+  'Unnamed: 19': 1943
+  'Unnamed: 2': 1
+  'Unnamed: 20': 1943
+  'Unnamed: 21': 1943
+  'Unnamed: 22': 1943
+  'Unnamed: 23': 1942
+  'Unnamed: 24': 1943
+  'Unnamed: 25': 1943
+  'Unnamed: 26': 1943
+  'Unnamed: 27': 1942
+  'Unnamed: 28': 1942
+  'Unnamed: 29': 1942
+  'Unnamed: 3': 1942
+  'Unnamed: 30': 1942
+  'Unnamed: 31': 1942
+  'Unnamed: 32': 1942
+  'Unnamed: 33': 1942
+  'Unnamed: 34': 1942
+  'Unnamed: 35': 1942
+  'Unnamed: 36': 1942
+  'Unnamed: 37': 1942
+  'Unnamed: 38': 1942
+  'Unnamed: 39': 1942
+  'Unnamed: 4': 1943
+  'Unnamed: 40': 1942
+  'Unnamed: 41': 1942
+  'Unnamed: 42': 1942
+  'Unnamed: 43': 1942
+  'Unnamed: 44': 1942
+  'Unnamed: 45': 1942
+  'Unnamed: 46': 1942
+  'Unnamed: 47': 1942
+  'Unnamed: 48': 1942
+  'Unnamed: 49': 1942
+  'Unnamed: 5': 1943
+  'Unnamed: 50': 1942
+  'Unnamed: 51': 1942
+  'Unnamed: 52': 1943
+  'Unnamed: 53': 1942
+  'Unnamed: 54': 1942
+  'Unnamed: 55': 1942
+  'Unnamed: 56': 1942
+  'Unnamed: 57': 1942
+  'Unnamed: 58': 1943
+  'Unnamed: 59': 1942
+  'Unnamed: 6': 1943
+  'Unnamed: 60': 1942
+  'Unnamed: 61': 1942
+  'Unnamed: 62': 1942
+  'Unnamed: 63': 1943
+  'Unnamed: 64': 1943
+  'Unnamed: 65': 1942
+  'Unnamed: 66': 1942
+  'Unnamed: 67': 1942
+  'Unnamed: 68': 1942
+  'Unnamed: 69': 1942
+  'Unnamed: 7': 1943
+  'Unnamed: 70': 1942
+  'Unnamed: 71': 1942
+  'Unnamed: 72': 1942
+  'Unnamed: 73': 1942
+  'Unnamed: 74': 1942
+  'Unnamed: 75': 1942
+  'Unnamed: 76': 1942
+  'Unnamed: 77': 1942
+  'Unnamed: 78': 1942
+  'Unnamed: 79': 1942
+  'Unnamed: 8': 1
+  'Unnamed: 9': 1942
+P_PRE_OP;Q_MHETCYNCO:
+  Sequence: 1944
+  과거력 기타 Comment: 1943
+  등재번호: 270
+  입력 식별코드: 4
+P_PRE_OP;Q_SHABCATCO:
+  Sequence: 1944
+  등재번호: 270
+  복부 수술 종류 기타 Comment: 1943
+  입력 식별코드: 4
+P_PRE_OP;Q_SHNYNCO:
+  Sequence: 1944
+  등재번호: 270
+  복부 외 수술 종류: 1943
+  입력 식별코드: 4
+P_PRE_OP;Q_SYMCATCO:
+  Sequence: 1944
+  등재번호: 270
+  입력 식별코드: 4
+  주증상 기타 Comment: 1943
+P_PRE_OP;Q_TFTRTCATCO:
+  Sequence: 1944
+  등재번호: 270
+  입력 식별코드: 4
+  타장기암의 종류 기타 Comment: 1943
+P_PRE_TEST:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 269
+  'Unnamed: 10': 1943
+  'Unnamed: 11': 1943
+  'Unnamed: 12': 1943
+  'Unnamed: 13': 1943
+  'Unnamed: 14': 1943
+  'Unnamed: 15': 1942
+  'Unnamed: 16': 1942
+  'Unnamed: 17': 1942
+  'Unnamed: 18': 1943
+  'Unnamed: 19': 1943
+  'Unnamed: 2': 1943
+  'Unnamed: 20': 1943
+  'Unnamed: 21': 1944
+  'Unnamed: 22': 1944
+  'Unnamed: 23': 1942
+  'Unnamed: 24': 1943
+  'Unnamed: 25': 1942
+  'Unnamed: 26': 1942
+  'Unnamed: 27': 1942
+  'Unnamed: 28': 1942
+  'Unnamed: 29': 1942
+  'Unnamed: 3': 1943
+  'Unnamed: 30': 1942
+  'Unnamed: 31': 1943
+  'Unnamed: 32': 1943
+  'Unnamed: 33': 1942
+  'Unnamed: 34': 1942
+  'Unnamed: 35': 1942
+  'Unnamed: 36': 1942
+  'Unnamed: 37': 1942
+  'Unnamed: 38': 1942
+  'Unnamed: 39': 1942
+  'Unnamed: 4': 1943
+  'Unnamed: 40': 1942
+  'Unnamed: 41': 1942
+  'Unnamed: 42': 1942
+  'Unnamed: 43': 1942
+  'Unnamed: 44': 1943
+  'Unnamed: 45': 1942
+  'Unnamed: 46': 1942
+  'Unnamed: 47': 1942
+  'Unnamed: 48': 1942
+  'Unnamed: 49': 1943
+  'Unnamed: 5': 1944
+  'Unnamed: 50': 1942
+  'Unnamed: 51': 1942
+  'Unnamed: 52': 1942
+  'Unnamed: 53': 1942
+  'Unnamed: 54': 1942
+  'Unnamed: 55': 1942
+  'Unnamed: 56': 1941
+  'Unnamed: 57': 1941
+  'Unnamed: 58': 1942
+  'Unnamed: 59': 1942
+  'Unnamed: 6': 1944
+  'Unnamed: 60': 1942
+  'Unnamed: 61': 1942
+  'Unnamed: 62': 1943
+  'Unnamed: 63': 1942
+  'Unnamed: 64': 1942
+  'Unnamed: 65': 1942
+  'Unnamed: 66': 1942
+  'Unnamed: 67': 1942
+  'Unnamed: 68': 1942
+  'Unnamed: 69': 1942
+  'Unnamed: 7': 1943
+  'Unnamed: 70': 1942
+  'Unnamed: 71': 1942
+  'Unnamed: 72': 1942
+  'Unnamed: 73': 1942
+  'Unnamed: 74': 1942
+  'Unnamed: 75': 1942
+  'Unnamed: 76': 1943
+  'Unnamed: 77': 1942
+  'Unnamed: 78': 1942
+  'Unnamed: 8': 1943
+  'Unnamed: 9': 1943
+P_PRE_TEST;Q_ANIMMCATCO:
+  Sequence: 1944
+  등재번호: 270
+  면역항암제 기타 Comment: 1943
+  입력 식별코드: 4
+P_PRE_TEST;Q_ANTRGCATCO:
+  Sequence: 1944
+  등재번호: 270
+  입력 식별코드: 4
+  표적치료제 기타 Comment: 1943
+P_PRE_TEST;Q_COLCATCO:
+  Sequence: 1944
+  내시경 소견 기타 Comment: 1943
+  등재번호: 270
+  입력 식별코드: 4
+P_PRE_TEST;Q_LB:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 6653
+  'Unnamed: 2': 3
+  'Unnamed: 3': 1
+  'Unnamed: 4': 1
+  'Unnamed: 5': 1
+  'Unnamed: 6': 8859
+  'Unnamed: 7': 8859
+  'Unnamed: 8': 1
+P_PRE_TEST;Q_LBE:
+  'Unnamed: 0': 4
+  'Unnamed: 1': 39
+  'Unnamed: 2': 3
+  'Unnamed: 3': 1
+  'Unnamed: 4': 1
+  'Unnamed: 5': 1
+  'Unnamed: 6': 66
+  'Unnamed: 7': 66
+  'Unnamed: 8': 41
