@@ -11,7 +11,7 @@ git clone https://github.com/RPythonStudy/Dataprocessing_Example_Deid.git
 
 - UV 설치 (윈도우)
 ```
-irm https://astral.sh/uv/install.ps1 | iex
+scoop install uv
 ```
 
 
@@ -23,7 +23,7 @@ brew install uv
 - Marimo 설치
 
 ```
-pip install marimo
+uv add marimo
 ```
 
 ```
@@ -33,7 +33,7 @@ uv add marimo
 - Marimo 실행
 
 ```
-marimo edit
+uv run marimo edit
 ```
 
 
