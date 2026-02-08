@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Runtime Live Tester | Web Browser Playground</title>
+    <meta name="description" content="웹 브라우저에서 직접 자바스크립트 코드를 실행하고 테스트해보세요. 실시간 콘솔 출력을 지원하는 프리미엄 개발자 도구입니다.">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="header-left">
+            <h1>JS Runtime <span style="font-weight: 300; opacity: 0.8">Live</span></h1>
+        </div>
+        <div class="header-right">
+            <span class="badge">V8 Engine Compatible</span>
+        </div>
+    </header>
+
+    <main>
+        <!-- Editor Panel -->
+        <section class="panel">
+            <div class="panel-header">
+                <span class="panel-title">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+                    Source Code
+                </span>
+                <div class="controls">
+                    <button id="clear-btn" class="btn-outline">Clear</button>
+                    <button id="run-btn" class="btn-primary">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                        Run Code
+                    </button>
+                </div>
+            </div>
+            <div class="editor-container">
+                <textarea id="code-editor" spellcheck="false" placeholder="// 여기에 자바스크립트 코드를 작성하세요...
+function greet(name) {
+    console.log('안녕하세요, ' + name + '님!');
+}
+
+greet('사용자');
+console.info('실행 완료!');"></textarea>
+            </div>
+        </section>
+
+        <!-- Console Panel -->
+        <section class="panel">
+            <div class="panel-header">
+                <span class="panel-title">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25"></path><line x1="8" y1="16" x2="8.01" y2="16"></line><line x1="8" y1="20" x2="8.01" y2="20"></line><line x1="12" y1="18" x2="12.01" y2="18"></line><line x1="12" y1="22" x2="12.01" y2="22"></line><line x1="16" y1="16" x2="16.01" y2="16"></line><line x1="16" y1="20" x2="16.01" y2="20"></line></svg>
+                    Output Console
+                </span>
+                <button id="clear-console-btn" class="btn-outline">Clear Console</button>
+            </div>
+            <div id="console-output" class="console-container">
+                <!-- Console lines will be injected here -->
+                <div class="console-line info">
+                    <span class="console-time">00:00:00</span>
+                    <span class="console-msg">준비되었습니다. 코드를 작성하고 Run 버튼을 누르세요.</span>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-left">
+            <span class="status-dot"></span> System Ready
+        </div>
+        <div class="footer-right">
+            Browser Runtime Environment &copy; 2024
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
