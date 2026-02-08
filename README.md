@@ -8,6 +8,7 @@ git clone https://github.com/RPythonStudy/Dataprocessing_Example_Deid.git
 ---
 
 
+### UV 
 
 - UV 설치 (윈도우)
 ```
@@ -19,6 +20,20 @@ scoop install uv
 ```
 brew install uv
 ```
+
+### Pyinstaller 
+
+- Console 창 (+)
+```
+pyinstaller --onefile main.py
+```
+- Console 창 (-)
+ 
+```
+pyinstaller -w --onefile main.py
+```
+
+### Marimo
 
 - Marimo 설치
 
