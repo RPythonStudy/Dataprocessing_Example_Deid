@@ -33,6 +33,11 @@ pyinstaller --onefile main.py
 pyinstaller -w --onefile main.py
 ```
 
+### Youtube Downloader
+```
+git clone https://github.com/bcleemd/RP_YT_down.git
+```
+
 ### Marimo
 
 - Marimo 설치
